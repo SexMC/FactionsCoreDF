@@ -1,2 +1,2 @@
 # Factions
-Factions Core for Minecraft Bedrock Edition written in Go
+mi fektion kore mi worked on for motnhs. hop u like dis. plz star it2
