@@ -1,0 +1,5 @@
+world/*
+configs/config.toml
+players/*
+resources/*
+configs/economy/*

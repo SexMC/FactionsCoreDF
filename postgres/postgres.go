@@ -1,0 +1,13 @@
+package postgres
+
+import (
+	_ "github.com/lib/pq"
+	"github.com/linuxtf/dragonfly/libraries/srv/postgres"
+)
+
+// Init inits the PostGreSQL database with tables
+func Init() {
+	postgres.Exec(`CREATE TABLE IF NOT EXISTS FACTIONS(NAME VARCHAR(15) PRIMARY KEY, DESCRIPTION TEXT, ALLIES TEXT, TRUCES TEXT, ENEMIES TEXT, LEADER TEXT, MEMBERS TEXT, HOME TEXT, WARPS TEXT, STORAGE TEXT)`)
+	postgres.Exec(`CREATE TABLE IF NOT EXISTS FPLAYERS(XUID VARCHAR(256) PRIMARY KEY, FACTION TEXT, CHANNEL TEXT, BOARD TEXT)`)
+	postgres.Exec(`CREATE TABLE IF NOT EXISTS CLAIMS(POSITION TEXT, OWNER TEXT, CREATED INT)`)
+}

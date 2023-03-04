@@ -1,0 +1,132 @@
+{
+    "broadcast_faction_created": "§8[§a!§8] §c%s §7has created a new Faction §a%s",
+    "faction_created": "§8[§a!§8] §7You have successfully created a Faction with the name §a%s",
+
+    "broadcast_faction_disbanded": "§8[§c!§8] §c%s §7has disbanded §7their Faction §a%s",
+    "broadcast_faction_members_disbanded": "§8[§c!§8] §7Your §cFaction leader §7has §cdisbanded §7their Faction!",
+    "faction_disbanded": "§8[§c!§8] §7You have §cdisbanded §7the Faction §a%s",
+
+    "must_leave_faction": "§8[§c!§8] §7You must leave your current faction faction §a%s §7to be able to perform this command!",
+    "must_disband_faction": "§8[§c!§8] §7You must disband your faction §a%s §7to be able to perform this command!",
+    "leader_cannot_leave": "§8[§c!§8] §cFaction Leader §7cannot leave their own faction! Use §c/f disband §7instead!",
+    "must_be_in_a_faction": "§8[§c!§8] §7You must be in a Faction to be able to perform this command!",
+
+    "faction_name_exists":"§8[§c!§8] §7Faction with the name §a%s §7already exists!",
+    "faction_name_too_small": "§8[§c!§8] §7Faction name should be atleast §a3 characters!",
+    "faction_name_invalid": "§8[§c!§8] §7Faction name cannot contain invalid characters",
+    "faction_name_too_long": "§8[§c!§8] §7Faction name cannot exceed §a15 characters!",
+    "faction_name_does_not_match": "§8[§c!§8] §7The faction name does not match with the name of your Faction!",
+    
+    "must_be_assistant": "§8[§c!§8] §7You must be at least a §aFaction Assistant §7to perform this command!",
+    "must_be_officer": "§8[§c!§8] §7You must be at least a §aFaction Officer §7to perform this command!",
+    "must_be_manager": "§8[§c!§8] §7You must be at least a §aFaction Manager §7to perform this command!",
+    "must_be_coleader": "§8[§c!§8] §7You must be at least a §aFaction Co-Leader §7to perform this command!",
+    "must_be_leader": "§8[§c!§8] §7You must be the §aFaction Leader §7to perform this command!",
+
+    "player_name_invalid": "§8[§c!§8] §7The player name you provided is invalid",
+    "player_not_found": "§8[§c!§8] §7No player with the name §a%s §7was found online!",
+    "faction_not_found": "§8[§c!§8] §7The faction name you provided could not be found!",
+
+    "more_than_one_target": "§8[§c!§8] §7You cannot use this command on more than one player!",
+
+    "invited_successfully": "§8[§a!§8] §7You have successfully invited §a%s §7to join your Faction!",
+    "already_invited": "§8[§c!§8] §7You have already invited §a%s§7, Please wait a while before using this command again!",
+    "invitation_received": "§6You have received an Invitation to join a Faction, It will expire in 30 seconds if not responded!\nUse /f invites to respond!",
+
+    "command_usage_by_console": "§cThis command can only be used in-game!",
+    "command_usage_on_self": "§8[§c!§8] §7You cannot use this command on yourself!",
+    "command_usage_on_own_faction": "§8[§c!§8] §7You cannot use this command on your own faction!",
+
+    "player_not_in_faction": "§8[§c!§8] §7The player §a%s §7must be in your Faction to be able execute this command on them!",
+    "invalid_player": "§8[§c!§8] §7You must provide a player to execute this command!",
+
+    "must_be_higher_in_hierarchy": "§8[§c!§8] §7You must be higher in heirarchy to be able to use this command on §c%s",    
+    "cannot_demote_recruit": "§8[§c!§8] §7You cannot demote a §cFaction Recruit§7, use the §c/f kick §7command instead!",
+
+    "faction_member_promoted": "§8[§a!§8] §7Faction Member §a%s §7has been promoted to §aFaction %s",
+    "faction_member_demoted": "§8[§c!§8] §7Faction Member §c%s §7has been demoted to §cFaction %s",
+    "max_officers": "§8[§c!§8] §cOperation Cancelled! §7Your Faction has reached a maximum number of §c%s §7Officers",
+    "max_managers": "§8[§c!§8] §cOperation Cancelled! §7Your Faction has reached a maximum number of §c%s §7Managers",
+    "max_coleaders": "§8[§c!§8] §cOperation Cancelled! §7Your Faction has reached a maximum number of §c%s §7Co-Leaders",
+    "max_members": "§8[§c!§8] §cOperation Cancelled! §7Your Faction has reached a maximum number of §c%s §7Members",
+    "cannot_promote_to_leader": "§8[§c!§8] §7You cannot promote anyone to become the §cLeader §7of this Faction.",
+
+    "faction_rank_changed": "§8[§a!§8] §7You have successfully set §a%s's §7rank to §a%s",
+    "broadcast_faction_rank_changed": "§8[§a!§8] §a%s §7have set §a%s's §7rank to §a%s",
+
+    "chat_channel_changed": "§8[§c!§8] §7Your Text Channel has been successfully updated to §a%s",
+
+    "already_a_member": "§8[§c!§8] §7Invite failed! §c%s §7is already a member of your faction!",
+    "zero_invites": "§8[§c!§8] §7You don't have any invites to join a Faction!",
+    "rejected_invite": "§8[§c!§8] §7You have successfully rejected the invite to the Faction §c%s",
+    "broadcast_player_rejected_invite": "§8[§c!§8] §c%s §7has rejected the invite to join your Faction!",
+
+    "joined_faction": "§8[§a!§8] §7You have successfully joined the faction §a%s",
+    "broadcast_member_joined_faction": "§8[§a!§8] §a%s §7has joined the Faction!",
+    "left_faction": "§8[§c!§8] §7You have successfully left the Faction §c%s",
+    "broadcast_member_left_faction": "§8[§c!§8] §c%s §7has left the Faction (§8Former %s§7)",
+
+    "kicked_from_faction": "§8[§c!§8] §7You have been kicked from the Faction §c%s",
+    "kicked_member": "§8[§c!§8] §7You have successfully kicked the member §c%s §7from your faction!",
+    "broadcast_kicked_member": "§8[§c!§8] §a%s §7has kicked §c%s §7from the faction!",
+    "player_not_in_any_faction": "§8[§c!§8] §7The player §c%s §7is not in any faction!",
+    "invalid_faction_or_player": "§8[§c!§8] §7Could not find any faction or online player with the name §c%s",
+
+    "already_neutral": "§8[§c!§8] §7You are already §fNeutral §7with the Faction §f%s",
+    "already_marked_neutral": "§8[§c!§8] §7You have already marked §f%s §7as neutral! Please ask the Faction §f%s §7to mark you as well to establish the relation!",
+    "broadcast_marked_neutral_target": "§8[§c!§8] §f%s §7have marked your faction as §fNeutral! §7Type §f/f neutral %s §7to establish the relation!",
+    "broadcast_marked_neutral": "§8[§c!§8] §7Your faction have marked §f%s §7as §fNeutral!",
+    "neutral_established": "§8[§c!§8] §7The §fNeutral §7relationship with the Faction §f%s §7is successfully established!",
+
+    "already_truce": "§8[§c!§8] §7You are already §dTruces §7with the Faction §d%s",
+    "already_marked_truce": "§8[§c!§8] §7You have already marked §d%s §7as truce! Please ask the Faction §d%s §7to mark you as well to establish the relation!",
+    "broadcast_marked_truce_target": "§8[§c!§8] §d%s §7have marked your faction as §dTruce! §7Type §d/f truce %s §7to establish the relation!",
+    "broadcast_marked_truce": "§8[§c!§8] §7Your faction have marked §d%s §7as §dTruce!",
+    "truce_established": "§8[§c!§8] §7The §dTruce §7relationship with the Faction §d%s §7is successfully established!",
+
+    "already_ally": "§8[§c!§8] §7You are already in §aAlliance §7with the Faction §a%s",
+    "already_marked_ally": "§8[§c!§8] §7You have already marked §a%s §7as ally! Please ask the Faction §a%s §7to mark you as well to establish the relation!",
+    "broadcast_marked_ally_target": "§8[§c!§8] §a%s §7have marked your faction as §aAlly! §7Type §a/f ally %s §7to establish the relation!",
+    "broadcast_marked_ally": "§8[§c!§8] §7Your faction have marked §a%s §7as §aAlly!",
+    "ally_established": "§8[§c!§8] §7The §aAlliance §7with the Faction §a%s §7is successfully established!",
+
+    "already_enemy": "§8[§c!§8] §7You are already Enemies with the Faction §c%s",
+    "broadcast_marked_enemy_target": "§8[§c!§8] §c%s §7have marked your faction as §cEnemy!",
+    "broadcast_marked_enemy": "§8[§c!§8] §7Your faction have marked §c%s §7as §cEnemy!",
+
+    "teleportation_started": "§8[§c!§8] §6Teleportation Started\nDo not move! Moving will cancel the teleportation!",
+    "teleportation_cancelled": "§8[§c!§8] §cTeleportation cancelled! You were not supposed to move while teleporting",
+
+    "faction_has_no_home": "§8[§c!§8] §7Your Faction has no home.",
+    "faction_warp_does_not_exist": "§8[§c!§8] §7Your Faction does not have a warp with the name §c%s",
+    "faction_home_set": "§8[§a!§8] §7Faction Home §aset!",
+    "faction_warp_exists": "§8[§c!§8] §cFaction Warp §7with the name §c%s §7already exists!",
+    "faction_warp_set": "§8[§a!§8] §7Faction Warp has been §aset §7with the name §a%s",
+    "cannot_set_home": "§8[§c!§8] §7You cannot set a home in a chunk owned by another Faction. This chunk is owned by §c%s",
+    "cannot_set_warp": "§8[§c!§8] §7You cannot set a warp in a chunk owned by another Faction. This chunk is owned by §c%s",
+
+    "invalid_claim_radius": "§8[§c!§8] §7You specified an invalid claim radius! Claim radius must be between §c1 §7and §c%s!",
+    "radius_claim_failed": "§8[§c!§8] §7Radius claim failed! No free chunk found in the §c%s §7radius!",
+    "radius_claim_successful": "§8[§c!§8] §7Successfully claimed §a%s §7chunks in a radius of §a%s",
+
+    "chunk_already_claimed": "§8[§c!§8] §7This chunk is already claimed by §c%s",
+    "chunk_claimed": "§8[§a!§8] §7The chunk at §aX = %d §7and §aZ = %d §7has been claimed by your Faction!",
+    "chunk_is_wilderness": "§8[§c!§8] §7This chunk is §2Wilderness!",
+    "cannot_unclaim_chunk": "§8[§c!§8] §7You must be standing in a chunk claimed by your Faction! This chunk is claimed by the Faction §c%s",
+    "chunk_unclaimed": "§8[§a!§8] §7The chunk at §cX = %d §7and §cZ = %d §7has been §cunclaimed by your §cFaction!",
+
+    "description_changed": "§8[§a!§8] §7Faction Description changed to §a%s",
+    "autoclaim_changed": "§8[§a!§8] §7Faction Auto Claim has been set to §6%v",
+
+    "cannot_hit_truces": "§8[§c!§8] §7You cannot hit §d%s §7as they are a §dTruce!",
+    "cannot_hit_allies": "§8[§c!§8] §7You cannot hit §a%s §7as they are a §aAlly!",
+    "cannot_hit_neutrals": "§8[§c!§8] §7You cannot hit §c%s §7as they are Neutral! You must be outside of their claim!",
+    "cannot_modify_build": "§8[§c!§8] §7You cannot modify blocks in this chunk as it is owned by §c%s",
+
+    "faction_map_overflown": "§8[§c!§8] §7The faction map has overflown §8(§cGreater than 86 Factions§8)",
+    "faction_map_header": "§6____________.[ %s(%s) %s §6].____________",
+    "faction_map_autoupdate": "§8[§c!§8] §7Faction Map auto update set to §6%s",
+
+    "confirmation_error": "§8[§c!§8] §cConfirmation! §7You must execute §c/%s %s §7to perform the operation",
+    "confirmation_does_not_match": "§8[§c!§8] §cConfirmation Failed! Please try again after some time!"
+}

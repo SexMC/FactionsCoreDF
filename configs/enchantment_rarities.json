@@ -1,0 +1,42 @@
+{
+    "simple": {
+        "name": "Simple",
+        "cost": 1,
+        "weight": 10
+    },
+    "unique": {
+        "name": "Unique",
+        "cost": 1,
+        "weight": 10
+    },
+    "elite": {
+        "name": "Elite",
+        "cost": 1,
+        "weight": 10
+    },
+    "ultimate": {
+        "name": "Ultimate",
+        "cost": 1,
+        "weight": 10
+    },
+    "legendary": {
+        "name": "Legendary",
+        "cost": 1,
+        "weight": 10
+    },
+    "soul": {
+        "name": "Soul",
+        "cost": 1,
+        "weight": 10
+    },
+    "heroic": {
+        "name": "Heroic",
+        "cost": 1,
+        "weight": 10
+    },
+    "mystery": {
+        "name": "Mystery",
+        "cost": 1,
+        "weight": 10
+    }
+}

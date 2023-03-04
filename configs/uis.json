@@ -1,0 +1,56 @@
+{
+    "f_create_ui": {
+        "title": "§4Faction §7| §cCreate",
+
+        "input": {
+            "text": "§7In order to create a §cFaction§7, type the §cname of the Faction §7you'd like to have below!\n\n§8Allowed characters: a-Z, 0-9, #@$_",
+            "default": "",
+            "placeholder": ""
+        }
+    },
+    "f_disband_ui": {
+        "title": "§4Faction §8| §cDisband",
+
+        "input": {
+            "text": "§7In order to §4disband §7your §cFaction:\n§7Type the §cname of your Faction §7below!\n\n§8Faction Name: %s",
+            "default": "",
+            "placeholder": ""
+        }
+    },
+    "f_invite_ui": {
+        "title": "§4Faction §8| §cInvite",
+
+        "input": {
+            "text": "§7Type the name of the §cplayer §7that you would like to invite to this §cFaction!\n\n§8Heads up: The player must be online!",
+            "default": "",
+            "placeholder": ""
+        }
+    },
+    "f_info_menu": {
+        "title": "§4Faction §8| §cInformation",
+
+        "buttons": {
+            "general": {
+                "text": "General Information",
+                "image": ""
+            },
+            "members": {
+                "text": "Members",
+                "image": ""
+            },
+            "allies": {
+                "text": "Allies",
+                "image": ""
+            }
+        }
+    },
+    "f_info_panel": {
+        "title": "§c%s §7| §8General Info"
+    },
+    "f_invites_menu": {
+        "title": "§cFaction §7| §8Invites",
+        "desc": "§7This is a list of Faction Invites you have received from various factions.\nClick on a Faction name to review your invite!\n",
+        "invite_title": "%s",
+        "invite_desc": "§7Faction: §a%s\n§7Expires: §c%s\n§7Invited By: §c%s\n"
+    }
+}

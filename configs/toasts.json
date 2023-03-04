@@ -1,0 +1,6 @@
+{
+    "faction_invitation": {
+        "title": "§cFaction Invitation",
+        "content": "§7You have received an §cinvitation §7to join §a%s§7, Use §a/f invites §7to accept this invitation!"
+    }
+}

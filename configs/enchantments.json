@@ -1,0 +1,17 @@
+{
+    "headless": {
+        "name": "Headless",
+        "description": "",
+        "max_level": 3,
+        "min_cost": 1,
+        "max_cost": 2
+    },
+    "obliterate": {
+        "name": "Obliterate",
+        "description": "",
+        "max_level": 3,
+        "min_cost": 1,
+        "max_cost": 2,
+        "knockback": 5
+    }
+}
